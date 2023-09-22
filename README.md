@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there i'm Janeesh 👋
 
-I am a first-year Biological Sciences PhD Student studying at Queen Mary University of London supervised by Prof Richard Nichols, Dr Matteo Fumagalli, Dr Bob Verity and Prof Alexander Gnedin. 
+I am a first-year Biological Sciences PhD Student studying at Queen Mary University of London supervised by [Prof Richard Nichols](https://www.qmul.ac.uk/sbbs/staff/richardnichols.html), Dr [Matteo Fumagalli](https://www.qmul.ac.uk/sbbs/staff/matteo-fumagalli.html), [Dr Bob Verity](https://www.imperial.ac.uk/people/r.verity) and [Prof Alexander Gnedin](https://www.qmul.ac.uk/maths/profiles/gnedina.html). 
 
-My project is on using Bayesian Inference and Deep Learning approaches to infer patterns of disease spread from the genomes of the malaria parasite. I am currently working on distinguishing between population bottleneck and substructure scenarios using ABC. 
+- :PUSHPIN: My project is on using Bayesian Inference and Deep Learning approaches to infer patterns of disease spread from the genomes of the malaria parasite. 
+
+- 🔭 I am currently working on distinguishing between population bottleneck and substructure scenarios using ABC and investigating demographic inference software tools. 
 
 <!--
 **JaneeshBansal/JaneeshBansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
