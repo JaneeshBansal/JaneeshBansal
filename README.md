@@ -5,5 +5,5 @@ I am a second-year Biological Sciences PhD Student studying at Queen Mary Univer
 - 📌 My overall project is on using `Bayesian Inference` and `Deep Learning` approaches to infer patterns of disease spread from the genomes of the `malaria` parasite. 
 - 🔭 I am currently working on distinguishing between population bottleneck and substructure scenarios using `ABC` and investigating demographic inference software tools.
 
-💻 Find out more about me on my [website!](https://janeeshbansal.github.io/)
+Find out more about me on my [website!](https://janeeshbansal.github.io/)
 
