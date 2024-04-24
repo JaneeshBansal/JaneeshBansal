@@ -17,5 +17,6 @@ I am a second-year Biological Sciences PhD Student studying at Queen Mary Univer
 - 🎓 || BSc(Hons) Natural Sciences, University of Bath 🛁|| MSc Bioinformatics, Queen Mary University of London 🏛️
  
 
-Find out more about me on my [website!](https://janeeshbansal.github.io/)
+Find out more about me on my [website!](https://janeeshbansal.github.io/). Or have a look at my work [github](https://github.qmul.ac.uk/bty208).
+
 
