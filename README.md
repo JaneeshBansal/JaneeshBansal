@@ -12,7 +12,7 @@ I am a Final-year Biological Sciences PhD Student studying at Queen Mary Univers
 - Statistical and Mathematical modelling
 
 **Other projects i'm working on!**
-- 🎓 [PlasmoGen26](https://plasmogen26.github.io/) — co-organising a free student-led symposium on population genetics, evolutionary biology and malaria @ the Linnean Society of London, 6 Nov 2026
+- 🎓 PlasmoGen26 — co-organising a free student-led symposium on population genetics, evolutionary biology and malaria @ the Linnean Society of London, 6 Nov 2026
 
 **Other bits about me!**
 - 🎓 || BSc(Hons) Natural Sciences (2.1), University of Bath 🛁 || MSc Bioinformatics (Distinction), Queen Mary University of London 🏛️
